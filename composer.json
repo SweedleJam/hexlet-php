@@ -1,0 +1,10 @@
+{
+    "name": "sweedle/hexlet-php",
+    "authors": [
+        {
+            "name": "Sweedle",
+            "email": "sweedlejam@gmail.com"
+        }
+    ],
+    "require": {}
+}
