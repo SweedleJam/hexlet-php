@@ -11,10 +11,11 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9.4"
-    }
+    },
+    "name": "hexlet/pairs",
     "autoload": {
         "files": [
-            "src/Runners.php"
+            "src/Runner.php"
         ]
     }
 }
